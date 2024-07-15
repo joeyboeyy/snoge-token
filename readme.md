@@ -10,7 +10,7 @@ In the file ./src/ICRC1/Canisters/Archive.mo on line 29
 Update the canister id to your ledger canister id
 The current code looks like this:
 
-    let original_canister_id = Principal.fromText("7tvr6-fqaaa-aaaan-qmira-cai");
+    let original_canister_id = Principal.fromText("u5jvu-fyaaa-aaaag-alfdq-cai");
 
 ## The rest of the readme
 
