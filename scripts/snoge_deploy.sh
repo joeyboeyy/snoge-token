@@ -1,10 +1,10 @@
     dfx deploy icrc1 --argument "( record {               
-        name = \"Insane Clown Protocol\";                         
-        symbol = \"CLOWN\";                           
+        name = \"Snoge\";                         
+        symbol = \"SNOGE\";                           
         decimals = 8;                               
         fee = 50000; 
         max_supply = 1_000_000_000_0000_0000;
-        logo = \"data:image/jpeg;base64,$(base64 -w 0 clown-logo.jpg)\";                                        
+        logo = \"data:image/jpeg;base64,$(base64 -w 0 snoge-logo.jpg)\";                                        
         initial_balances = vec {                                
             record {                                            
                 record {
