@@ -8,7 +8,7 @@
         initial_balances = vec {                                
             record {                                            
                 record {
-                    owner = principal \"d5jbw-krtiv-v5xi4-jj6cf-53euc-vlcbd-u73lb-wlwdj-a5ijb-evlu4-qqe\";   
+                    owner = principal \"tgysj-wsee5-2ctxp-kpi4l-gm6wj-4h3oi-x22cv-ggje4-gqxzu-yh5hi-2qe\";   
                     subaccount = null;                          
                 };                                              
                 1_000_000_000_0000_0000
