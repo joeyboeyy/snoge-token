@@ -8,7 +8,7 @@
         initial_balances = vec {                                
             record {                                            
                 record {
-                    owner = principal \"tgysj-wsee5-2ctxp-kpi4l-gm6wj-4h3oi-x22cv-ggje4-gqxzu-yh5hi-2qe\";   
+                    owner = principal \"d5jbw-krtiv-v5xi4-jj6cf-53euc-vlcbd-u73lb-wlwdj-a5ijb-evlu4-qqe\";   
                     subaccount = null;                          
                 };                                              
                 1_000_000_000_0000_0000
@@ -17,7 +17,7 @@
         min_burn_amount = 10_000;
         minting_account = (
             opt record {
-                owner=principal \"t5kgr-44ker-fn3gq-uqqzo-mskle-2oqhl-dmxlo-25p4u-dbxdx-2c332-dae\"; 
+                owner=principal \"fp274-iaaaa-aaaaq-aacha-cai\"; 
                 subaccount=null
             }
         );
